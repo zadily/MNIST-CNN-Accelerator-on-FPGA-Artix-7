@@ -250,4 +250,4 @@ dc        ← 220 decimal  →  Q4.3 = 6
 
 ## Contributors
 
-- [Your Name](https://github.com/your-username)
+- [Zaid Faruqui](https://github.com/zadily)
